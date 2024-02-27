@@ -121,7 +121,7 @@ function App() {
 
         <Routes>
           {<Route
-            path=""
+            path="/paykey/"
             element={
               <Home
                 items={items}
@@ -140,7 +140,7 @@ function App() {
 
         <Routes>
           {<Route
-            path="favorites"
+            path="/paykey/favorites"
             element={
               <Favorites />
             }
@@ -150,7 +150,7 @@ function App() {
 
         <Routes>
           {<Route
-            path="orders"
+            path="/paykey/orders"
             element={
               <Orders />
             }
