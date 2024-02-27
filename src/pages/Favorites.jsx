@@ -30,7 +30,7 @@ function Favorites() {
             <div className="empty">
                 <img className='mb-20' src="img/empty-favorites.svg" alt='Empty' />
                 <h2 className='mb-20'>У вас нет избранных товаров</h2>
-                <Link to="/paykey/">
+                <Link to="">
                     <button className="lavenderButton">
                         <img src='img/arrow.svg' alt='Arrow' />Вернуться назад
                     </button>
