@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paykey/static/css/main.ce18e56a.css",
+    "main.js": "/paykey/static/js/main.8ecbd64b.js",
+    "index.html": "/paykey/index.html",
+    "main.ce18e56a.css.map": "/paykey/static/css/main.ce18e56a.css.map",
+    "main.8ecbd64b.js.map": "/paykey/static/js/main.8ecbd64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce18e56a.css",
+    "static/js/main.8ecbd64b.js"
+  ]
+}
